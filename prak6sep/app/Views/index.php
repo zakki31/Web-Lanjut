@@ -1,1 +1,1 @@
-ini indexx
+ini index
