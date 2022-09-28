@@ -11,21 +11,10 @@ class Mahasiswa extends Seeder
     {
         $data_mahasiswa = [
             [
-                'npm' => '2017051037',
-                'nama'    => 'Ahmad Muzakki',
-                'alamat' => 'Natar',
-                'created_at' => Time::now(),
-            ],
-            [
-                'npm' => '0',
-                'nama'    => 'Kamu',
-                'alamat' => 'TBB',
-                'created_at' => Time::now(),
-            ],
-            [
-                'npm' => '2117051041',
-                'nama'    => 'Dia',
-                'alamat' => 'Kampung Baru',
+                'npm' => '2017051022',
+                'nama'    => 'Satria Sapta Nugraha',
+                'alamat' => 'Kota Metro',
+                'desripsi' => 'Rajin',
                 'created_at' => Time::now(),
             ]
         ];
